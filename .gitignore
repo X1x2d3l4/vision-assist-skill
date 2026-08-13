@@ -1,0 +1,6 @@
+# 不要提交真实密钥
+.env
+**/.env
+__pycache__/
+*.pyc
+_tmp/
